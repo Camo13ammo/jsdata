@@ -25,7 +25,7 @@ app.controller('CreateCtrl', function($scope) {
 
 	TODOS: 
 	1 - create the object that the form can use via ng-model
-  2 - create a function that 
+  	2 - create a function that 
 	 		a) persists the ng-modeled post object 
 			b) changes the state to 'main'  
 
